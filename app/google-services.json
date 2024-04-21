@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126376087571",
+    "project_id": "chat-app-1ce7f",
+    "storage_bucket": "chat-app-1ce7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126376087571:android:80ddc41cdbeb7fe5b36fe6",
+        "android_client_info": {
+          "package_name": "com.codacrafts.w3chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkefeJtM1GaUkyYatEUWNzjwbjBstYNYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
